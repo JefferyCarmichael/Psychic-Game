@@ -1,6 +1,5 @@
 body{
-    /* background-color: rgba(67, 96, 141, 0.562); */
-    background-image: url("../images/milky-way.jpeg");
+   background-image: url("../images/milky-way.jpeg");
 }
 
 .container{
@@ -18,7 +17,6 @@ body{
     padding-top: 40px;
     padding-left: 40px;
     border-radius: 15px;
-    /* font-family: 'Frijole', cursive;  */
     font-family: 'Happy Monkey', cursive;
     font-size: 52px;
     line-height: 54px;
